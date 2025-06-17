@@ -60,6 +60,11 @@
     <img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord"/>
   </a>
 
+  <!-- Email -->
+  <a href="mailto:reginattotalles@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/E--mail-000?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email"/>
+  </a>
+
 </div>
 
 <!-- Rodapé opcional -->
