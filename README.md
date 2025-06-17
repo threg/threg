@@ -1,30 +1,68 @@
-<h2 align="left">About Me</h2>
+<!-- Título "About Me" centralizado -->
+<h2 align="center">About Me</h2>
 
-###
+<!-- Descrição pessoal em formato de parágrafo com emojis -->
+<p align="center">
+  👋 Olá! Meu nome é <strong>Talles Henrique</strong> e sou um entusiasta de desenvolvimento front-end, com foco em <strong>JavaScript</strong> e <strong>React</strong>.<br>
+  🚀 Atualmente estou expandindo meus conhecimentos em tecnologias web modernas e contribuindo com projetos pessoais no GitHub.<br>
+  🎯 Meu objetivo é construir interfaces intuitivas e responsivas, combinando boas práticas de programação com foco na experiência do usuário.<br>
+  📚 Aprendendo diariamente e em busca de oportunidades para crescer profissionalmente no mundo da tecnologia.
+</p>
 
-<p align="left"></p>
+---
 
-###
-
-<h2 align="left">Stats</h2>
-
-###
+<!-- Seção de estatísticas do GitHub -->
+<h2 align="center">Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=threg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&card_width=500&theme=dracula&locale=en&hide_border=false&order=1&custom_title=Talles%20%20Henrique%20GitHub%20Stat's" card_height="150" alt="stats graph"  />
-  <br>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=threg&theme=dracula&card_width=500&card_height=150" alt="GitHub Streak" /></a>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=threg&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=5&theme=dracula&hide_border=false&order=2" card_height="150" alt="languages graph"  />
+
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=threg&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&custom_title=Talles%20Henrique%20GitHub%20Stats" 
+    width="500"
+    alt="GitHub Stats"
+  />
+  
+  <!-- GitHub Streak -->
+  <img 
+    src="https://streak-stats.demolab.com?user=threg&theme=dracula" 
+    width="500"
+    alt="GitHub Streak"
+  />
+
+  <!-- Most Used Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=threg&layout=compact&langs_count=5&theme=dracula" 
+    width="500"
+    alt="Top Languages"
+  />
 </div>
 
-###
+---
 
-<h2 align="left">Social Media</h2>
+<!-- Redes sociais com ícones centralizados -->
+<h2 align="center">Social Media</h2>
 
-###
+<div align="center">
 
-<div align="left">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/talles-henrique-35a48a240/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/reginattotalles" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
+  </a>
+
+  <!-- Discord -->
+  <a href="https://discordapp.com/users/tallestto" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord"/>
+  </a>
+
 </div>
 
-###
+<!-- Rodapé opcional -->
+<p align="center">
+  ✨ Obrigado por visitar meu perfil!
+</p>
