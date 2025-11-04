@@ -25,10 +25,10 @@
   
   <!-- GitHub Streak -->
   <img 
-    src="https://streak-stats.demolab.com?user=threg&theme=dracula" 
-    width="500"
-    alt="GitHub Streak"
-  />
+  src="https://streak-stats.vercel.app/?user=threg&theme=dracula&date_format=j%20M%5B%20Y%5D" 
+  width="500"
+  alt="Talles Henrique GitHub Streak"
+/>
 
   <!-- Most Used Languages -->
   <img 
