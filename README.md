@@ -17,11 +17,11 @@
 <div align="center">
 
   <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=threg&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&custom_title=Talles%20Henrique%20GitHub%20Stats" 
-    width="500"
-    alt="GitHub Stats"
-  />
+ <img 
+  src="https://github-readme-stats.vercel.app/api?username=threg&show_icons=true&count_private=true&theme=dracula&custom_title=Talles%20Henrique%20GitHub%20Stats" 
+  width="500" 
+  alt="GitHub Stats"
+/>
   
   <!-- GitHub Streak -->
   <img 
